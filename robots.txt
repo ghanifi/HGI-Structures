@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hgi-structures.co.uk/sitemap.xml

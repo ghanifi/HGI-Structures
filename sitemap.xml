@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://hgi-structures.co.uk/</loc>
+    <lastmod>2025-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://hgi-structures.co.uk/assets/images/arc-design-01-1.jpg</image:loc>
+      <image:title>HGI Structures — Structural Engineering London</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hgi-structures.co.uk/services.html</loc>
+    <lastmod>2025-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://hgi-structures.co.uk/assets/images/arc-design-01-1.jpg</image:loc>
+      <image:title>HGI Structures Services — Structural Engineering</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hgi-structures.co.uk/projects.html</loc>
+    <lastmod>2025-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://hgi-structures.co.uk/assets/images/image007-1.png</image:loc>
+      <image:title>Harlow Residential Extension — HGI Structures</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://hgi-structures.co.uk/assets/images/image007.png</image:loc>
+      <image:title>Hadley Wood Warehouse Extension — HGI Structures</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hgi-structures.co.uk/faq.html</loc>
+    <lastmod>2025-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hgi-structures.co.uk/contact.html</loc>
+    <lastmod>2025-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
